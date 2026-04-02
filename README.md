@@ -1,4 +1,4 @@
-<h1>💻 程序员大橙子的开发者主页</h1>
+<h1>💻 大橙桑的开发者主页</h1>
 <p>
     <a title="My Blog Site" target="_blank" href="https://blog.csdn.net/weixin_75207021">
         <img src="https://img.shields.io/badge/Blog-https%3A%2F%2Fblog.csdn.net%2Fweixin_75207021-blue?labelColor=FB5531" />
@@ -8,7 +8,7 @@
     </a>
 </p>
 
-👋 **Hello! 我是橙子，一名大学在读开发者**  
+👋 **Hello! 我是大橙桑，一名大学在读开发者**  
 🎯 专注于 **Android 原生开发**、**鸿蒙原生开发**、**Flutter 跨端开发**  
 📖 热爱学习新技术，积极探索移动开发领域  
 📬 **欢迎沟通交流！**
